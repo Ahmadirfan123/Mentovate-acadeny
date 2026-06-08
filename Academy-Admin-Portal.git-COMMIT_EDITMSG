@@ -1,0 +1,10 @@
+Make the application compatible with Netlify deployments
+
+Update vite.config.ts, package.json, and add _redirects and netlify.toml files to ensure proper Netlify deployment and routing.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 17e32947-79ef-4aa0-b993-db8de3167cff
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 6a76701a-0a94-4f9b-800f-3d2d53c4d077
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/ce8f042c-d6a6-4f07-a640-1e0a174e63ac/17e32947-79ef-4aa0-b993-db8de3167cff/2gt2b6W
+Replit-Helium-Checkpoint-Created: true
